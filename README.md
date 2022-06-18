@@ -1,2 +1,2 @@
 # CSS-Grid-and-flexbox-tutorial
-this is a practice for CSS grid layout
+This is my assignment for CSS grid and flexbox layout
