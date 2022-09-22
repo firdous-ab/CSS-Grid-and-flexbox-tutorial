@@ -1,2 +1,1 @@
-# CSS-Grid-and-flexbox-tutorial
-This is my assignment for CSS grid and flexbox layout
+This site is published at https://firdous-ab.github.io/firdous-ab.githubflexboxlayout.io/
